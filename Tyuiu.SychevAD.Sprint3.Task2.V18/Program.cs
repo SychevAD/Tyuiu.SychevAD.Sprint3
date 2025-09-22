@@ -19,9 +19,9 @@ namespace Tyuiu.SychevAD.Sprint3.Task2.V18
             Console.WriteLine("* Выполнил: Сычев Александр Дмитриевич | АСОиУб 24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу используя цикл while, которая вычисляет сумму ряда   *");
-            Console.WriteLine("* по формуле, при a=0,5:                                                  *");
-            Console.WriteLine("* S = сумма от k=1 до 18 (a^k + 0,25) * cos(k)                            *");
+            Console.WriteLine("* Написать программу используя цикл while, которая вычисляет произведение *");
+            Console.WriteLine("* ряда по формуле, при a=0,5:                                             *");
+            Console.WriteLine("* P = произведение от k=1 до 18 (a^k + 0,25) * cos(k)                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
@@ -38,8 +38,8 @@ namespace Tyuiu.SychevAD.Sprint3.Task2.V18
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            double result = ds.GetSumSeries(a, startValue, stopValue);
-            Console.WriteLine($"Сумма ряда = {result}");
+            double result = ds.GetMultiplySeries(a, startValue, stopValue);
+            Console.WriteLine($"Произведение ряда = {result}");
 
             Console.ReadKey();
         }
