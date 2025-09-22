@@ -43,11 +43,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task3.V26", "Tyuiu.SychevAD.Sprint3.Task3.V26\Tyuiu.SychevAD.Sprint3.Task3.V26.csproj", "{72782A63-7BC8-48F9-AEE6-98DF6A93D778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task7.V28", "Tyuiu.SychevAD.Sprint3.Task7.V28\Tyuiu.SychevAD.Sprint3.Task7.V28.csproj", "{C879FBA6-BD37-4F98-9C13-D11D5C8FE7F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task7.V25", "Tyuiu.SychevAD.Sprint3.Task7.V28\Tyuiu.SychevAD.Sprint3.Task7.V25.csproj", "{C879FBA6-BD37-4F98-9C13-D11D5C8FE7F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task7.V28.Test", "Tyuiu.SychevAD.Sprint3.Task7.V28.Test\Tyuiu.SychevAD.Sprint3.Task7.V28.Test.csproj", "{0C994C59-0661-4262-941B-7511EB0EAEAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task7.V25.Test", "Tyuiu.SychevAD.Sprint3.Task7.V28.Test\Tyuiu.SychevAD.Sprint3.Task7.V25.Test.csproj", "{0C994C59-0661-4262-941B-7511EB0EAEAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task7.V28.Lib", "Tyuiu.SychevAD.Sprint3.Task7.V28.Lib\Tyuiu.SychevAD.Sprint3.Task7.V28.Lib.csproj", "{09BC0986-5C73-477E-BF29-120D30DDE5C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task7.V25.Lib", "Tyuiu.SychevAD.Sprint3.Task7.V28.Lib\Tyuiu.SychevAD.Sprint3.Task7.V25.Lib.csproj", "{09BC0986-5C73-477E-BF29-120D30DDE5C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SychevAD.Sprint3.Task6.V2", "Tyuiu.SychevAD.Sprint3.Task6.V2\Tyuiu.SychevAD.Sprint3.Task6.V2.csproj", "{45B487AB-63EE-4703-95DF-51B8BDA29228}"
 EndProject
