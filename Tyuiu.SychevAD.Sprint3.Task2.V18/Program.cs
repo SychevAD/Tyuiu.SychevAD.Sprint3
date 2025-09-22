@@ -26,11 +26,11 @@ namespace Tyuiu.SychevAD.Sprint3.Task2.V18
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            double a = 0.5;
+            int value = 5; // 5 соответствует a=0.5
             int startValue = 1;
             int stopValue = 18;
 
-            Console.WriteLine($"Переменная a = {a}");
+            Console.WriteLine($"Значение value = {value} (a = 0.5)");
             Console.WriteLine($"Старт шага = {startValue}");
             Console.WriteLine($"Конец шага = {stopValue}");
 
@@ -38,7 +38,7 @@ namespace Tyuiu.SychevAD.Sprint3.Task2.V18
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            double result = ds.GetMultiplySeries(a, startValue, stopValue);
+            double result = ds.GetMultiplySeries(value, startValue, stopValue);
             Console.WriteLine($"Произведение ряда = {result}");
 
             Console.ReadKey();
